@@ -3,4 +3,4 @@ This research mainly uses the data of Hushen 300 index from 2005 to 2021 and the
 
 # To Start
 1. ```data.ipynb``` Filter data from different sources (windA, hs300 and CITIC) according to timestamps.
-2. ```choose_capm_hs300.ipynb``` Calculate β and rank correlation coefficient to buy hs300.
+2. ```choose_capm_hs300.ipynb``` Calculate β and spearman rank correlation coefficient to buy hs300.
